@@ -51,7 +51,7 @@ h1 {
 }
 
 h2 {
-    color: maroon;
+    color: Maroon;
     font-size: 1.25rem;
 }
 
@@ -62,6 +62,7 @@ section {
     background-color: #ddd;
     width: min(800px, 100%);
 }
+
 
 code {
     font-family: 'Courier New', Courier, monospace;
